@@ -3,9 +3,9 @@
 
 
 $servername = "localhost";
-$username = "kzxed";
-$password = "~Bt6zx51";
-$dbname = "cringefr_mth";
+$username = "root";
+$password = "";
+$dbname = "db";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
