@@ -9,7 +9,7 @@ and SQL to your database
 
 ## Usage
 
-If u want  add message by GET method, in the url add " ?get=<message> "
+If u want  add message by GET method, in the url add " ?get=message "
 
 ## Creator
 
